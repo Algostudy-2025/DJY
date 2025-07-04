@@ -26,7 +26,7 @@ class Solution {
 }
 
 
-//이렇게 하면 중복 처리가 안됨 !!! ㅜㅜ 멍청이
+// 이렇게 하면 중복 처리가 안됨 !!! ㅜㅜ 멍청이
 /*
 class Solution {
     public String solution(String[] participant, String[] completion) {
